@@ -3,11 +3,11 @@
 # Hacker Holidays 2026 — Day 4  
 <br><br><br>
 
-**Room:** [Room Name](https://tryhackme.com/room/hh-packedlight-02e5330c)
-**Platform:** TryHackMe
-**Difficulty:** Easy
-**Category:** Network Forensics / PCAP Analysis / Cryptography
-**Written:** 31 July 2026
+**Room:** [Room Name](https://tryhackme.com/room/hh-packedlight-02e5330c)  
+**Platform:** TryHackMe  
+**Difficulty:** Easy  
+**Category:** Network Forensics / PCAP Analysis / Cryptography  
+**Written:** 31 July 2026  
 
 <br><br>
 ![logo](images/hhd4-0.png)
