@@ -3,7 +3,7 @@
 # Hacker Holidays 2026 — Day 8
 <br><br>
 
-**Room:** [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed)   
+**Room:** [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709)   
 **Platform:** TryHackMe    
 **Difficulty:** Medium    
 **Category:** Web / Business Logic / Race Condition / API Abuse    
