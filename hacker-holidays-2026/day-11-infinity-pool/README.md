@@ -121,6 +121,12 @@ Another endpoint documented the automation service and its authenticated export 
 
 <br><br>
 
+![creds](images/hhd11-ucp-creds.png)
+
+<br><br>
+
+<br><br>
+
 ![enum](images/hhd11-enu.png)
 
 <br><br>
